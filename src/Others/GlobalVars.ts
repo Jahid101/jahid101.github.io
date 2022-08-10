@@ -1,8 +1,8 @@
 import { OurIcons } from "./OurIcons";
 import { NavBottomLinksInterface, TitledListItemInterface } from "./Interfaces";
-import { WebImages } from "./Images";
+// import { WebImages } from "./Images";
 
-export const myGithubUsername = "p32929";
+export const myGithubUsername = "jahid101";
 
 export class GlobalVars {
   static primaryColor = "#00BFA5";
@@ -620,7 +620,7 @@ export class GlobalVars {
         {
           title: "Click on the link button",
           desc: "To create your own portfolio. It will only take few minutes",
-          logo: WebImages.giftIcon,
+          logo: "WebImages.giftIcon",
           link: "https://github.com/p32929/p32929.github.io/",
         },
       ],

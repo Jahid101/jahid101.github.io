@@ -8,6 +8,7 @@ import { createOvermind } from 'overmind'
 import { config } from './Overmind/OvermindHelper'
 import { theme } from "./Others/Theme";
 import App from './App';
+// import { GlobalVars } from './Others/GlobalVars';
 import { GlobalVars } from './Others/GlobalVars';
 
 const overmind = createOvermind(config)
