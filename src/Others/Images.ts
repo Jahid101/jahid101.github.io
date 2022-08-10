@@ -1,6 +1,7 @@
 export class LocalImages {
     static avatar = '/avatar.png'
     static avatar_with_laptop = "/avatar2.png"
+    // static avatar_with_laptop = "/me.jpg"
 }
 
 export class WebImages {
